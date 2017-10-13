@@ -2,7 +2,7 @@
   ##############  Example script for analyzing Generalized Linear Mixed Models (GLMMs) in R ################
 ###############################################################################################################
 
-# This code was developed with L. J. Knoll and M. Speekenbrink for 
+# Parts of this code were developed with L. J. Knoll and M. Speekenbrink for 
 
 # Fuhrmann, D.*, Knoll, L.J.*, Sakhardande, A., Stamp, F., Speekenbrink, M. & Blakemore, S-J. (2016). 
 # A window of opportunity for cognitive training in adolescence. Psychological Science. *Joint first authors.
